@@ -3,7 +3,9 @@
 # Project 6 | Descriptive, predictive analysis and visualization in Tableau
 
 [Trello](https://trello.com/b/MfsPepIS/project-6)
+
 [Slides](https://github.com/MichelBrunGit/Ironhack-DAFT-Project6-Descriptive_predictive_analysis_visualization_in_Tableau/blob/main/Project%206%20-%20PayLocator.pdf)
+
 [Online Tableau Dashboard](https://dub01.online.tableau.com/t/ironnesma/authoring/Project6/Dashboard44#1)
 
 ## Content
