@@ -1,4 +1,6 @@
 Trello : https://trello.com/b/MfsPepIS/project-6
+Slides : https://www.canva.com/design/DAE2Rx2JIEw/nFbOdmK0a8ZPH0uzXm5BDA/edit
+Online Tableau Dashboard : https://dub01.online.tableau.com/t/ironnesma/authoring/Project6/Dashboard44#1
 
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
